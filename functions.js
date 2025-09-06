@@ -25,3 +25,9 @@ const subtract=(x,y)=>{
     return x-y;
 }
  console.log(subtract(7,5))
+
+
+ function wish(){
+    console.log("hello")
+ }
+ wish()
